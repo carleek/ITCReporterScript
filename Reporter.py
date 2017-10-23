@@ -1,7 +1,8 @@
 # To use:
-# Download Reporter from ____ and move to desired download location
+# Download Reporter from http://help.apple.com/itc/contentreporterguide/en.lproj/static.html#apda86f89da5
+#       and move to desired download location
 # Place this file inside the Reporter folder.
-# Fill in the missing information below. (for help finding your account_number and vendor number see _______ )
+# Fill in the missing information below. (for help finding your account_number and vendor number see the above URL )
 # Run the script!
 
 # IMPORTS
